@@ -16,6 +16,7 @@ struct ContentView: View {
             }
             .foregroundColor(.green)
             .navigationTitle("Xcode & Git")
+            .foregroundColor(.red)
         }
         
         
